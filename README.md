@@ -1,4 +1,5 @@
 # Learning-From-Data
 
-CMPE 257: Machine learning
+CMPE 257: Machine learning,
+
 Book: Learning from Data
